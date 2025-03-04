@@ -72,7 +72,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🔗 **Live Demo (if deployed)**: [Your Hosted App URL
+🔗 **Live Demo (if deployed)**: https://house-price-prediction-model-mu.vercel.app/
 
 
 
