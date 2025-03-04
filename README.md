@@ -1,4 +1,4 @@
-🏡 House Price Prediction Model
+🏡 **House Price Prediction Model**
 
  📌 Overview
 
@@ -72,7 +72,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🔗 **Live Demo (if deployed)**: https://house-price-prediction-model-mu.vercel.app/
+🔗 **Live Demo**: https://house-price-prediction-model-mu.vercel.app/
 
 
 
